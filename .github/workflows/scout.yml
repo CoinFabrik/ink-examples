@@ -7,4 +7,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: coinfabrik/scout-actions@v1
         with:
-          target: './call-runtime/Cargo.toml'
+          target: './flipper/Cargo.toml'
